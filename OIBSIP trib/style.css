@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial;
+    font-size: 17px;
+    background: #000;
+}
+
+.navbar-brand img {
+    border-radius: 50%;
+    height: 30px;
+    width: 50px;
+}
+.nav-link{
+  color: #fff !important;
+}
+
+.navbar-nav {
+    text-align: center;
+    font-family: Lobster;
+    font-weight: 600;
+}
+
+#myVideo {
+    width: 100%;
+}
+
+.content {
+    color: #f1f1f1;
+    width: 100%;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+p span {
+    font-family: Roboto;
+    font-weight: bold;
+    color: red;
+}
+
+h2 span {
+    font-size: 20px;
+    font-family: Caveat;
+    padding-right: 10px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.row {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+h4 {
+    color: green;
+    padding: 10px 0 0 20px;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+p {
+    color: #fff;
+    padding: 0 20px 30px;
+}
+
+.para {
+    padding: 20px 30px;
+    color: #fff;
+}
